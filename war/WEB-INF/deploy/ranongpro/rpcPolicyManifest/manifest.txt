@@ -1,0 +1,3 @@
+# Module ranongpro
+# RPC service class, partial path of RPC policy file
+th.ac.utcc.ranongpro.client.GreetingService, C33641730A7CCBD1BD56EF5805DA56CD.gwt.rpc

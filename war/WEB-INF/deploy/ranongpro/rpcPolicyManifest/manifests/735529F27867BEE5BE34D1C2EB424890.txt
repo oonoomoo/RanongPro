@@ -1,0 +1,2 @@
+serviceClass: th.ac.utcc.ranongpro.client.GreetingService
+path: C33641730A7CCBD1BD56EF5805DA56CD.gwt.rpc
